@@ -1,10 +1,15 @@
-## Hey👋 i am waqas khan
+## Hi there👋 i am waqas khan
 
-<!--
-**vikikhattak-804/vikikhattak-804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS IT UnderGraduate | Future AI & Frontend web developer
 
-Here are some ideas to get you started:
+I'm passionate about **Machine Learning, AI , and Web development**
+Currently learning **Deep Learning & streamlit Appa**
+I enjoy building **fun projects like games,apps, and AI models**
 
-- 🔭 I’m currently working on Ai Project
-- 🌱 I’m currently learning Fronetnd development
-- 👯 I’m looking to collaborate on AI Team
+
+## Skills & Tools
+
+- **Languages : ** Python, C++, Javascript, Html, Css
+- **Framework : ** Streamlit, TensorFlow, Bootstrap
+- **Database : ** MySQL
+- **Other Tools : ** Git, Github, Vs code , Jupyter
